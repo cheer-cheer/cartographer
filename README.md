@@ -1,8 +1,8 @@
-# Cartographer
+﻿# Cartographer
 
 ## 概述
 
-Cartographer 是一个 Python 爬虫程序，它可以从国家统计局官网（http://www.stats.gov.cn）上发布的[行政区划代码统计标准](http://www.stats.gov.cn/tjsj/tjbz/xzqhdm/)中采集中国行政区划数据。
+Cartographer 是一个 Python 爬虫程序，它可以从[国家统计局官网](http://www.stats.gov.cn/)上发布的[行政区划代码统计标准](http://www.stats.gov.cn/tjsj/tjbz/xzqhdm/)中采集最新的中国行政区划数据。
 
 ## 前提条件
 
